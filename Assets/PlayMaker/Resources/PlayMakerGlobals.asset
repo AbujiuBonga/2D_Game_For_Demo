@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 42938266, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier: 
+  variables:
+    floatVariables:
+    - useVariable: 1
+      name: LV10HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV11HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV12HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV13HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV14HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV15HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV16HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV17HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV18HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV19HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV1HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV20HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV21HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV22HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV23HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV24HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV25HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV26HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV2HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV3HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV4HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV5HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV6HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV7HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV8HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: LV9HighScore
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 13179.39
+    - useVariable: 1
+      name: RawTime
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    intVariables: []
+    boolVariables: []
+    stringVariables: []
+    vector2Variables: []
+    vector3Variables: []
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables: []
+    objectVariables: []
+    materialVariables: []
+    textureVariables: []
+    arrayVariables: []
+    enumVariables: []
+    categories:
+    - 
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  events: []
